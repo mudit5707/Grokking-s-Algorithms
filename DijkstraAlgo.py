@@ -21,15 +21,11 @@ graph = {
     "finish": {}
 }
 
-leastCosts = {}
+leastCosts = {"start" : 0}
 parents = {}
 explored = []
 currentNode = ""
 
-if not(explored):
-    leastCosts.update(graph["start"])
-    for node in leastCosts.keys():
-        parents[node] = "start"
 
 while True:
     currentNode = getLeastCostNode(leastCosts, explored)
