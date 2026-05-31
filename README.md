@@ -37,18 +37,6 @@ The goal of this repository is not only to understand how algorithms work, but a
 * Queues
 * Stacks
 
-### Future Additions
-
-### Dynamic Programming
-
-* Knapsack Problem
-* Longest Common Subsequence
-* Other optimization problems
-* Greedy Algorithms
-* Advanced Graph Algorithms
-* Trees
-* Heaps
-* Additional DSA practice problems
 
 ---
 
@@ -73,24 +61,7 @@ Example use cases:
 
 ---
 
-## Repository Structure
 
-```text
-grokking-algorithms-python/
-│
-├── chapter_01_binary_search/
-├── chapter_02_selection_sort/
-├── chapter_03_recursion/
-├── chapter_04_quicksort/
-├── chapter_06_breadth_first_search/
-├── chapter_07_dijkstra/
-├── chapter_08_greedy_algorithms/
-├── chapter_09_dynamic_programming/
-│
-└── README.md
-```
-
----
 
 ## Why This Repository Exists
 
@@ -113,16 +84,6 @@ Python 3
 
 * *Grokking Algorithms* by Aditya Bhargava
 
----
-
-## Progress
-
-* [x] Binary Search
-* [x] Breadth-First Search (BFS)
-* [x] Dijkstra's Algorithm
-* [ ] Dynamic Programming
-* [ ] Greedy Algorithms
-* [ ] Additional Graph Algorithms
 
 ---
 
