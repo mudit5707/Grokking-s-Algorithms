@@ -1,90 +1,54 @@
-# Grokking Algorithms – Python Implementations
+# Grokked-Algorithms
 
-A collection of algorithm implementations, exercises, and experiments completed while studying **Grokking Algorithms** by Aditya Bhargava.
+A personal collection of algorithms, data structures, problem-solving techniques, and interesting programming implementations that I learn, explore, and build over time.
 
-The goal of this repository is not only to understand how algorithms work, but also to implement them from scratch and explore their behavior through testing and experimentation.
+This repository serves as my algorithmic playground and long-term storage space—a place where I can keep pushing code whenever I encounter a concept worth preserving.
 
----
+## About
+
+Many of the algorithms in this repository were learned while reading the excellent book **"Grokking Algorithms"** by Aditya Bhargava, which provides an intuitive and highly visual introduction to algorithmic thinking.
+
+Other implementations come from a variety of sources and courses
+
+The goal is not to create a comprehensive algorithms library, but rather to maintain a growing collection of implementations that I have personally understood, coded, tested, and found interesting.
 
 ## Topics Covered
 
-### Searching
+As the repository grows, it may include:
 
-* Binary Search
+* Graph Algorithms
 
-### Sorting
-
-* Selection Sort
-* Quicksort
-
-### Recursion
-
-* Recursive Problem Solving
-* Divide and Conquer (Quicksort)
-
-### Graph Algorithms
-
-* Breadth-First Search (BFS)
-* Dijkstra's Shortest Path Algorithm
-
-
-
-### Data Structures
-
-* Arrays
+  * Breadth-First Search (BFS)
+  * Dijkstra's Algorithm
+  * Shortest Path Problems
+* Sorting Algorithms
+* Searching Algorithms
+* Greedy Algorithms
+* Dynamic Programming
+* Recursion & Backtracking
+* Trees and Binary Trees
 * Hash Tables
-* Graphs
-* Queues
-* Stacks
+* Heaps and Priority Queues
+* Union-Find
+* String Algorithms
+* Miscellaneous Problem Solving Techniques
 
+## Repository Philosophy
 
----
+This repository is intentionally informal.
 
-## Featured Algorithm: Dijkstra's Algorithm
+Some programs may be highly optimized.
+Some may simply be educational implementations.
+Some may exist solely because I thought they were cool.
 
-One of the most interesting algorithms in this repository is **Dijkstra's Algorithm**, which finds the shortest path between nodes in a weighted graph.
+The common factor is that every algorithm here taught me something worth remembering.
 
-Key concepts explored include:
+## Why "Grokked"?
 
-* Weighted graphs
-* Cost tracking
-* Parent tracking
-* Priority-based exploration
-* Shortest path reconstruction
+Because understanding an algorithm is far more satisfying than merely memorizing it.
 
-Example use cases:
-
-* GPS navigation systems
-* Network routing
-* Logistics optimization
-* Pathfinding in games
-
----
+This repository documents algorithms that I have (hopefully) *grokked*—or at least attempted to.
 
 
 
-## Why This Repository Exists
-
-This repository serves as:
-
-* A personal learning journal
-* A reference for future revision
-* A collection of clean algorithm implementations
-* A demonstration of problem-solving and programming skills
-
----
-
-## Language
-
-Python 3
-
----
-
-## Resources
-
-* *Grokking Algorithms* by Aditya Bhargava
-
-
----
-
-*"An algorithm is just a set of instructions for accomplishing a task."* — Aditya Bhargava
+*"An algorithm is just a clever idea that survived contact with reality."*
